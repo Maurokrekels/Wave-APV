@@ -9,6 +9,11 @@ theme:
 # Copyright
 copyright: Copyright © 2024 Wave Testserver
 
+repo_name: GitHub
+repo_url: https://github.com/Maurokrekels/Wave-APV
+
+site_url: https://apvtest.wavetestserver.nl
+
 nav:
   - Home: index.md
   - Algemene Plaatselijke Verordening: apv.md
