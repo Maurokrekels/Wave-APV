@@ -9,7 +9,7 @@ theme:
 # Copyright
 copyright: Copyright © 2024 Wave Testserver
 
-site_url: https://apvtest.wavetestserver.nl
+site_url: https://waveapv.wavetestserver.nl
 
 nav:
   - Home: index.md
