@@ -6,4 +6,4 @@ Wave Testserver APV
 
 - Terminal 
 
-python -m mkdocs gh-deploy
+``python -m mkdocs gh-deploy``
