@@ -79,6 +79,21 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Wave, wordt hierbij ingetrokk
 
 1. Hij/zij die meerdere keren onnodige reports aanmaakt of het zit te spammen zal gestraft worden volgens de maximaal de 2e categorie.
 
+### Artikel 9 - RDM (Random Deathmatch):
+
+Het willekeurig doden van mensen die niet betrokken zijn bij jouw schietpartij en ook geen deel willen uitmaken van de situatie, wordt beschouwd als RDM (Random Deathmatch). Dit is een overtreding die zal leiden tot een straf binnen de 1e categorie.
+
+Sancties voor RDM-overtredingen:
+- **3 RDM Sancties**: 1 dag ban.
+- **4 RDM Sancties**: 2 dagen ban.
+- **5 RDM Sancties**: 3 dagen ban.
+- **6 RDM Sancties**: 4 dagen ban.
+
+### Artikel 10 - Voordoen als staff 
+
+1. Het is verboden om jezelf voor te doen als stafflid en/of uitspraken te gebruiken om als stafflid over te komen.
+2. Lid 1 zal gestraft worden volgens maximaal de 6e categorie.
+
 ## Tijdelijke bepalingen
 
 ## Slotbepaling: Regels in het kort
