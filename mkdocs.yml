@@ -2,10 +2,22 @@ site_name: Wave wet en regelgeving
 
 theme:
   name: material
-  langueage: en
+  langueage: nl
   logo: logo.png
   favicon: favicon.png
- 
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to system preference
+
 # Copyright
 copyright: Copyright © 2024 Wave Testserver
 
